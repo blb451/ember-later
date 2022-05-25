@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-ember-later-lint-rules",
+  "name": "eslint-plugin-ember-later",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blb451/ember-later-lint-rules.git"
+    "url": "git+https://github.com/blb451/ember-later.git"
   },
   "author": "Benjamin Brenner",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/blb451/ember-later-lint-rules/issues"
+    "url": "https://github.com/blb451/ember-later/issues"
   },
-  "homepage": "https://github.com/blb451/ember-later-lint-rules#readme"
+  "homepage": "https://github.com/blb451/ember-later#readme"
 }
